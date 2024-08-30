@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 ![Ruben >](/assets/img/profile_ruben.jpg)
-I will be a postdoc at the Interactive Geometry Lab at ETH Zürich, starting September 2024. In my research I seek to connect computer graphics- and geometry processing techniques to applications in machine learning and painting analysis. I was a PhD student at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl) from November 2019 until May 2024, defending on October 15th, 2024. I was advised by [Dr. Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus) and supervised by [Prof. Dr. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann) and Prof. Dr. Joris Dik.
+I am a postdoctoral researcher at the Interactive Geometry Lab at ETH Zürich since September 2024. In my research I seek to connect computer graphics- and geometry processing techniques to applications in machine learning. I was a PhD student at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl) from November 2019 until May 2024, defending on October 15th, 2024. I was advised by [Dr. Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus) and supervised by [Prof. Dr. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann) and Prof. Dr. Joris Dik.
 
 I have gathered experience as a graphic designer and filmmaker during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy [making music](https://soundcloud.com/rubenwiersma), reading and discussing books, watching movies, biking, and playing soccer.
 
@@ -13,8 +13,8 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 <!-- Profile picture: sculpt, hair, textures in Blender, rendered with Cycles. -->
 
 ### Contact
-- r.t.wiersma [at] tudelft.nl
-- [CGV group TU Delft](http://graphics.tudelft.nl/ruben-wiersma)
+- rubenwiersma [at] gmail.com or ruben.wiersma [at] inf.ethz.ch
+- [IGL at ETH Zürich](https://igl.ethz.ch/people/)
 - [LinkedIn](https://www.linkedin.com/in/rubenwiersma)
 
 <hr/>
@@ -23,10 +23,38 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 
 [Download a PDF version](/assets/pdf/cv_rubenwiersma.pdf) of this resume. An overview of my [publications can be found here](/category/publications.html).
 
+<h3>Professional experience</h3>
+<hr />
+
+#### [2024 - present] Postdoctoral researcher
+_ETH Zürich_
+
+- With [prof. dr. Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/) at the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/).
+
+#### [2023] Research Internship
+_Adobe_
+
+- Investigating material and appearance capture, mentored by Valentin Deschaintre and Julien Philip.
+
+#### [2019] Teaching Assistant
+_TU Delft_
+- Developed assignments for new datamining and Machine Learning courses.
+- Assistance to students during lab sessions.
+- Toolkit: Python, Jupyter, NumPy.
+
+<hr />
+
+#### [2017] Development Internship
+_GeoPhy_
+- End-to-end machine learning solution for estimating real-estate value.
+- Toolkit: Scala, Apache Kafka.
+
+<hr />
+
 <h3>Education</h3>
 <hr />
 
-#### [2019 - present] PhD Computer Graphics
+#### [2019 - 2024] PhD Computer Graphics
 _TU Delft_
 - Connecting geometry processing and computer graphics with machine learning and creative applications.
 - Additional responsibilities: lecturing, lab assistance, creating assignments, supervised 10 BSc students (thesis project), 3 MSc students (thesis).
@@ -51,29 +79,6 @@ _TU Delft_
 
 #### [2013 - 2014] Propedeuse Industrial Design Engineering _Cum Laude_
 _TU Delft_
-
-<hr />
-
-<h3>Professional experience</h3>
-<hr />
-
-#### [2023] Research Internship
-_Adobe_
-
-- Investigating material and appearance capture, mentored by Valentin Deschaintre and Julien Philip.
-
-#### [2019] Teaching Assistant
-_TU Delft_
-- Developed assignments for new datamining and Machine Learning courses.
-- Assistance to students during lab sessions.
-- Toolkit: Python, Jupyter, NumPy.
-
-<hr />
-
-#### [2017] Development Internship
-_GeoPhy_
-- End-to-end machine learning solution for estimating real-estate value.
-- Toolkit: Scala, Apache Kafka.
 
 <hr />
 
