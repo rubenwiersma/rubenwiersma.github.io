@@ -80,7 +80,7 @@ h1 + ul + p {
 }
 @media print {
     body {
-        font-size: 10pt;
+        font-size: 9pt;
         margin: 0;
         padding: 0;
         background: none;

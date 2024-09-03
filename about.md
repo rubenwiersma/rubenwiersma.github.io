@@ -29,7 +29,7 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 #### [2024 - present] Postdoctoral researcher
 _ETH Zürich_
 
-- With [prof. dr. Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/) at the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/).
+- With [Prof. Dr. Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/) at the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/).
 
 #### [2023] Research Internship
 _Adobe_
@@ -48,6 +48,21 @@ _TU Delft_
 _GeoPhy_
 - End-to-end machine learning solution for estimating real-estate value.
 - Toolkit: Scala, Apache Kafka.
+
+<hr />
+
+#### [2012-2022] Video producer, graphic designer
+_Wiersma Brothers, Torchbearers International, freelance_
+- [Wiersma Brothers](http://wiersmabros.nl): founder, producing video's and [short films](/tags.html#film).
+- [Torchbearers International](https://torchbearers.org): creative director and web development. View [samples of my work](/creative%20portfolio/2018/09/01/Torchbearers-International.html).
+- Freelance work in [graphic design](/tags.html#graphic-design) and web development.
+
+<hr />
+
+#### [2008-2010] Programmer
+_GoPublic_
+- Back-end developer for websites and and business administration webapps.
+- Toolkit: PHP, JavaScript, HTML.
 
 <hr />
 
@@ -79,21 +94,6 @@ _TU Delft_
 
 #### [2013 - 2014] Propedeuse Industrial Design Engineering _Cum Laude_
 _TU Delft_
-
-<hr />
-
-#### [2012 - present] Video producer, graphic designer
-_Wiersma Brothers, Torchbearers International, freelance_
-- [Wiersma Brothers](http://wiersmabros.nl): founder, producing video's and [short films](/tags.html#film).
-- [Torchbearers International](https://torchbearers.org): creative director and web development. View [samples of my work](/creative%20portfolio/2018/09/01/Torchbearers-International.html).
-- Freelance work in [graphic design](/tags.html#graphic-design) and web development.
-
-<hr />
-
-#### [2008-2010] Programmer
-_GoPublic_
-- Back-end developer for websites and and business administration webapps.
-- Toolkit: PHP, JavaScript, HTML.
 
 <hr/>
 

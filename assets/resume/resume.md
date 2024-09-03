@@ -7,76 +7,73 @@
 - NL
 - [rubenwiersma.nl](https://rubenwiersma.nl)
 
-I am a fourth-year PhD student in computer graphics at the TU Delft. My interests include geometry processing, rendering, simulation, and machine learning. I interned at Adobe in San Francisco as a research intern, studying material capture with differentiable rendering. I have a soft spot for working with creatives and enjoy working on my own [filmmaking projects, design and music](https://rubenwiersma.nl/category/creative-portfolio.html).
+I am a postdoctoral researcher at ETH Zürich in the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/). My interests include geometry processing, rendering, simulation, and machine learning. I was a PhD student at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl) from November 2019 until May 2024 and interned at Adobe in San Francisco as a research intern, studying material capture with differentiable rendering. I have a soft spot for working with creatives and enjoy working on my own [filmmaking projects, design and music](https://rubenwiersma.nl/category/creative-portfolio.html).
 
 ### Skills and qualities
 Strong math understanding • Ability to understand and analyze complex systems • Eye for clean, maintainable, and understandable code - [example project](https://github.com/rubenwiersma/deltaconv) • Creative thinking • Presentation and communication - [example presentation](https://www.youtube.com/watch?v=pKVtuz4dG0g) • Perseverance • C++ • Python • Linux • macOS • Blender • Adobe CC • Piano
 
+## Experience
+
+#### [2024 - Present] _ETH Zürich_, Postdoctoral Researcher
+
+- Postdoctoral researcher at the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/) under the supervision of Prof. Dr. Olga Sorkine-Hornung.
+
+#### [2023] _Adobe_, Research Internship
+
+- Investigating material and appearance capture, mentored by Valentin Deschaintre and Julien Philip.
+
+#### [2019] _TU Delft_, Teaching Assistant
+
+- Developed assignments for new datamining and Machine Learning courses and lab assistance.
+- Toolkit: Python, Jupyter, NumPy
+
+#### [2017] _GeoPhy_, Development Internship
+
+- End-to-end machine learning solution for estimating real-estate value.
+- Toolkit: Scala, Apache Kafka.
+
+#### [2012 - 2022] _Wiersma Brothers, Torchbearers International, freelance_, Video producer, graphic designer
+
+- [Wiersma Brothers](http://wiersmabrothers.nl): founder, working on [short films](https://rubenwiersma.nl/tags.html#film), [graphic design](https://rubenwiersma.nl/tags.html#graphic-design) and web development.
+- [Torchbearers International](https://torchbearers.org): creative director and web development. View [samples of my work](https://rubenwiersma.nl/creative%20portfolio/2018/09/01/Torchbearers-International.html).
+
+#### [2008 - 2010] _GoPublic_, Programmer
+
+- Back-end developer for websites and and business administration webapps.
+- Toolkit: PHP, JavaScript, HTML.
+
 ## Education
 
-#### [2019 - present] PhD Computer Graphics
-_TU Delft_ Supervised by Elmar Eisemann, Klaus Hildebrandt and Joris Dik
+#### [2019 - 2024] _TU Delft_, PhD Computer Graphics
+Supervised by Elmar Eisemann, Klaus Hildebrandt and Joris Dik
 
 - Geometry processing and machine learning (3 SIGGRAPH publications).
 - Studying applications of computer graphics and machine learning for painting analysis (1 journal, 1 conference publication).
 - Responsibilities: lecturing, lab assistance, creating assignments, thesis supervision (10 BSc, 3 MSc).
 - Toolkit: Python, PyTorch, JAX, C++, OpenGL.
 
-#### [2017 - 2019] MSc Computer Science _Cum Laude_ (GPA 4.0)
-_TU Delft_
+#### [2017 - 2019] _TU Delft_, MSc Computer Science _Cum Laude_ (GPA 4.0)
 
 - Focus on computer graphics and machine learning.
 - Thesis (grade 9/10) "Harmonic Surface Networks" [[PDF download]](https://repository.tudelft.nl/islandora/object/uuid:931ee653-eb26-40c2-8f54-9c5835fd6fba/datastream/OBJ/download).
 - Toolkit: C++, Python, PyTorch.
 
-#### [2014 - 2017] BSc Computer Science _Cum Laude_ (GPA 4.0)
-_TU Delft_
+#### [2014 - 2017] _TU Delft_, BSc Computer Science _Cum Laude_ (GPA 4.0)
 
 - Focus on multimedia and data science.
 - Thesis on "Automating Valuations for Real-Estate" [[PDF download]](https://repository.tudelft.nl/islandora/object/uuid:d2a020e3-07b3-42c8-a926-0e0e2f7ed6f0/datastream/OBJ/download).
 
-#### [2013 - 2014] Propedeuse Industrial Design Engineering _Cum Laude_
-_TU Delft_
+#### [2013 - 2014] _TU Delft_, Propedeuse Industrial Design Engineering _Cum Laude_
 
-## Experience
-
-#### [2023] Research Internship
-_Adobe_
-
-- Investigating material and appearance capture, mentored by Valentin Deschaintre and Julien Philip.
-
-#### [2019] Teaching Assistant
-_TU Delft_
-
-- Developed assignments for new datamining and Machine Learning courses and lab assistance.
-- Toolkit: Python, Jupyter, NumPy
-
-#### [2017] Development Internship
-_GeoPhy_
-
-- End-to-end machine learning solution for estimating real-estate value.
-- Toolkit: Scala, Apache Kafka.
-
-#### [2012 - present] Video producer, graphic designer
-_Wiersma Brothers, Torchbearers International, freelance_
-
-- [Wiersma Brothers](http://wiersmabrothers.nl): founder, working on [short films](https://rubenwiersma.nl/tags.html#film), [graphic design](https://rubenwiersma.nl/tags.html#graphic-design) and web development.
-- [Torchbearers International](https://torchbearers.org): creative director and web development. View [samples of my work](https://rubenwiersma.nl/creative%20portfolio/2018/09/01/Torchbearers-International.html).
-
-#### [2008-2010] Programmer
-_GoPublic_
-
-- Back-end developer for websites and and business administration webapps.
-- Toolkit: PHP, JavaScript, HTML.
 
 ## Service
 
-#### [Summer 2022] Summer Geometry Initiative (SGI) mentor
+#### [Summer 2022] _Summer Geometry Initiative (SGI)_, Mentor
+
 - Mentored fellows of [SGI](https://sgi.mit.edu) in a project on "Learning on Surfaces"
 
 
-#### [2020 - present] Committee member
-_SIGGRAPH research and career development committee_
+#### [2020 - present] _SIGGRAPH research and career development committee_, Committee member
 
 - Organized Conference Coffee at SIGGRAPH '21, SIGGRAPH Asia '21 and SIGGRAPH '22.
 - Production/writing for [website](https://research.siggraph.org), Thesis Fast Forward, and [SIGGRAPH/ToG writing guides](https://research.siggraph.org/blog/guides/explanatory-paper-figures-with-illustrator-and-blender/).
@@ -86,15 +83,14 @@ _SIGGRAPH research and career development committee_
 _ACM Transactions on Graphics, SIGGRAPH Asia, Pacific Graphics, TMAA, Computers & Graphics_
 
 
-#### [2013 - 2019] Committee member, committee chair
-_C.S.R. Delft (student association)_
+#### [2013 - 2019] _C.S.R. Delft (student association)_, Committee member, committee chair
 
 - Organized festivities, academic debates and hosted lectures (20-300 participants).
 - Produced [several](/creative%20portfolio/2015/11/01/La-Serenissima.html) [narrative](/creative%20portfolio/2018/11/01/Motown-Fever.html) [short](/creative%20portfolio/2016/05/01/Onontdekt.html) [films](/creative%20portfolio/2015/02/01/Magnifique.html) and an [anniversary book](/creative%20portfolio/2017/02/01/Pioniers-Book.html).
 
 
-#### [2014 - 2017] Restaurant staff manager, PR
-_Happietaria, Hartige Samaritaan:_ pop-up restaurants for charity, lasting one month.
+#### [2014 - 2017] _Happietaria, Hartige Samaritaan_, Restaurant staff manager, PR
+pop-up restaurants for charity, lasting one month.
 
 - Together with all the volunteers for Happietaria, raised €78.913.
 - Staff and communications manager for Hartige Samaritaan (November 2014, February 2017).
@@ -129,9 +125,21 @@ _October 2019_
 ## Grants
 
 #### Google Cloud Research credits
-_October 2019, October 2020_
+_October 2019, October 2020, May 2024_
 
 ## Talks
+
+#### 28th February 2024, INRIA Sophia Antipolis
+Invited talk: Intrinsic Approaches to Learning and Computing on Curved Surfaces
+
+#### 23rd February 2024, ETH Zürich
+Invited talk: Intrinsic Approaches to Learning and Computing on Curved Surfaces
+
+#### 19th February 2024, ISTA Vienna
+Invited talk: Intrinsic Approaches to Learning and Computing on Curved Surfaces
+
+#### October 2023, Johns Hopkins University
+Lecture: [Introduction to Blender for Students in Computer Graphics](https://youtu.be/_nmZ5JeH0N4)
 
 #### 6th April 2022, UChicago 3DL group
 Invited talk: DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds
