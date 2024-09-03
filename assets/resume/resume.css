@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Montserrat:ital,wght@0,100..600;1,100..600&display=swap');
 html {
     font-size: 0.9em;
 }
@@ -25,7 +25,7 @@ h1 {
     padding: 0;
 }
 h2 {
-    color: #2f2966;
+    color: #bd1542;
     font-family: "Montserrat";
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -35,7 +35,7 @@ h2 {
     padding: 0 0 5px;
 }
 h3 {
-    color: #2f2966;
+    color: #bd1542;
     font-family: "Montserrat";
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -48,7 +48,12 @@ h3 {
 h4 {
     font-family: "Montserrat";
     margin-bottom: 0.5em;
+    font-weight: normal;
 }
+h4 em {
+    font-family: "Lora";
+}
+
 p {
     margin: 0 0 0.5em 0;
     padding: 0;

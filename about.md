@@ -26,115 +26,106 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 <h3>Professional experience</h3>
 <hr />
 
-#### [2024 - present] Postdoctoral researcher
-_ETH Zürich_
 
-- With [Prof. Dr. Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/) at the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/).
+#### [2024 - Present] __ETH Zürich__, _Postdoctoral Researcher_
 
-#### [2023] Research Internship
-_Adobe_
+- Postdoctoral researcher at the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/) with Prof. Dr. Olga Sorkine-Hornung.
+
+<hr />
+
+#### [2023] __Adobe__, _Research Internship_
 
 - Investigating material and appearance capture, mentored by Valentin Deschaintre and Julien Philip.
 
-#### [2019] Teaching Assistant
-_TU Delft_
-- Developed assignments for new datamining and Machine Learning courses.
-- Assistance to students during lab sessions.
-- Toolkit: Python, Jupyter, NumPy.
+<hr />
+
+#### [2019] __TU Delft__, _Teaching Assistant_
+
+- Developed assignments for new datamining and Machine Learning courses and lab assistance.
 
 <hr />
 
-#### [2017] Development Internship
-_GeoPhy_
-- End-to-end machine learning solution for estimating real-estate value.
-- Toolkit: Scala, Apache Kafka.
+#### [2017] __GeoPhy__, _Development Internship_
+
+- Developed end-to-end machine learning solution for estimating real-estate value.
 
 <hr />
 
-#### [2012-2022] Video producer, graphic designer
-_Wiersma Brothers, Torchbearers International, freelance_
-- [Wiersma Brothers](http://wiersmabros.nl): founder, producing video's and [short films](/tags.html#film).
-- [Torchbearers International](https://torchbearers.org): creative director and web development. View [samples of my work](/creative%20portfolio/2018/09/01/Torchbearers-International.html).
-- Freelance work in [graphic design](/tags.html#graphic-design) and web development.
+#### [2012 - 2022] __Wiersma Brothers, freelance__, _Video producer, graphic designer_
+
+- Founder, working on [short films](https://rubenwiersma.nl/tags.html#film), [graphic design](https://rubenwiersma.nl/tags.html#graphic-design) and web development.
 
 <hr />
 
-#### [2008-2010] Programmer
-_GoPublic_
+#### [2008 - 2010] __GoPublic__, _Web Developer_
+
 - Back-end developer for websites and and business administration webapps.
-- Toolkit: PHP, JavaScript, HTML.
 
 <hr />
 
 <h3>Education</h3>
 <hr />
 
-#### [2019 - 2024] PhD Computer Graphics
-_TU Delft_
-- Connecting geometry processing and computer graphics with machine learning and creative applications.
-- Additional responsibilities: lecturing, lab assistance, creating assignments, supervised 10 BSc students (thesis project), 3 MSc students (thesis).
-- Toolkit: C++, OpenGL, Python, PyTorch, Blender.
+#### [2019 - 2024] __TU Delft__, _PhD Computer Graphics_
+Supervised by Elmar Eisemann, Klaus Hildebrandt and Joris Dik
+
+- Geometry processing and machine learning (3 SIGGRAPH publications).
+- Applications of computer graphics and machine learning for painting analysis (1 journal, 1 conference).
+- Responsibilities: lecturing, lab assistance, creating assignments, thesis supervision (10 BSc, 3 MSc).
 
 <hr />
 
-#### [2017 - 2019] MSc Computer Science _Cum Laude_
-_TU Delft_
-- Focus on data science and computer graphics.
-- Thesis (grade 9/10) "Harmonic Surface Networks" [[PDF download]](https://repository.tudelft.nl/islandora/object/uuid:931ee653-eb26-40c2-8f54-9c5835fd6fba/datastream/OBJ/download) (Published at SIGGRAPH as a technical paper)
-- Toolkit: C++, Python, PyTorch.
+#### [2017 - 2019] __TU Delft__, _MSc Computer Science_ __Cum Laude (GPA 4.0)__
+
+- Focus on computer graphics and machine learning. Thesis (grade 9/10) ["Harmonic Surface Networks"](https://repository.tudelft.nl/islandora/object/uuid:931ee653-eb26-40c2-8f54-9c5835fd6fba/datastream/OBJ/download).
 
 <hr />
 
-#### [2014 - 2017] BSc Computer Science _Cum Laude_
-_TU Delft_
-- Focus on data science and multimedia.
-- Thesis "Automating Valuations for Real-Estate" [[PDF download]](https://repository.tudelft.nl/islandora/object/uuid:d2a020e3-07b3-42c8-a926-0e0e2f7ed6f0/datastream/OBJ/download)
+#### [2014 - 2017] __TU Delft__, _BSc Computer Science_ __Cum Laude (GPA 4.0)__
+
+- Focus on multimedia and data science. Thesis on ["Automating Valuations for Real-Estate"](https://repository.tudelft.nl/islandora/object/uuid:d2a020e3-07b3-42c8-a926-0e0e2f7ed6f0/datastream/OBJ/download).
 
 <hr />
 
-#### [2013 - 2014] Propedeuse Industrial Design Engineering _Cum Laude_
-_TU Delft_
+#### [2013 - 2014] __TU Delft__, _Propedeuse Industrial Design Engineering_ __Cum Laude__
 
-<hr/>
+<hr />
 
 <h3>Service</h3>
 <hr />
 
-#### [2023, 2024] Summer Geometry Initiative (SGI) admissions committee
-- Reviewed admissions for SGI program.
+#### [Summer 2022] __MIT Summer Geometry Initiative (SGI)__, _Mentor_
 
-#### [Summer 2022] Summer Geometry Initiative (SGI) mentor
 - Mentored fellows of [SGI](https://sgi.mit.edu) in a project on "Learning on Surfaces"
 
-<hr/>
+<hr />
 
-#### [2020 - present] Committee member
-_SIGGRAPH research and career development committee_
+#### [2020 - present] __SIGGRAPH research and career development committee__, _Committee member_
+
 - Organized Conference Coffee at SIGGRAPH '21, SIGGRAPH Asia '21 and SIGGRAPH '22.
 - Production/writing for [website](https://research.siggraph.org), Thesis Fast Forward, and [SIGGRAPH/ToG writing guides](https://research.siggraph.org/blog/guides/explanatory-paper-figures-with-illustrator-and-blender/).
 
-<hr/>
+<hr />
 
-#### [2020 - present] Reviewer
-_ACM Transactions on Graphics, SIGGRAPH Asia, Pacific Graphics, TMAA, Computers & Graphics_
+#### [2020 - present] __Reviewer__
+- ACM Transactions on Graphics, SIGGRAPH Asia, Pacific Graphics, TMAA, Computers & Graphics
 
-<hr/>
+<hr />
 
-#### [2013 - 2019] Committee member, committee chair
-_C.S.R. Delft (student association)_
+#### [2013 - 2019] __C.S.R. Delft (student association)__, _Committee member, committee chair_
+
 - Organized festivities, academic debates and hosted lectures (20-300 participants).
 - Produced [several](/creative%20portfolio/2015/11/01/La-Serenissima.html) [narrative](/creative%20portfolio/2018/11/01/Motown-Fever.html) [short](/creative%20portfolio/2016/05/01/Onontdekt.html) [films](/creative%20portfolio/2015/02/01/Magnifique.html) and an [anniversary book](/creative%20portfolio/2017/02/01/Pioniers-Book.html).
 
-<hr/>
+<hr />
 
-#### [2014 - 2017] Restaurant staff manager, PR
-_Happietaria, Hartige Samaritaan:_ pop-up restaurants for charity, lasting one month.
-- Together with all the volunteers for Happietaria, raised €78.913.
-- Staff and communications manager for Hartige Samaritaan (November 2014, February 2017).
+#### [2014 - 2017] __Happietaria__, __Hartige Samaritaan__, _Restaurant staff manager, PR and communications manager_
+
+- Pop-up restaurant for charity, lasting one month, raised €78.913.
 
 <hr />
 <h3>Recognition</h3>
 <hr />
 
-#### [September 2022] Best Full Paper Award - GCH 2022
+#### [September 2022] __Best Full Paper Award__, _GCH 2022_
 - Eurographics Workshop on Graphics and Cultural Heritage 2022
