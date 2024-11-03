@@ -19,7 +19,7 @@ Strong math understanding • Ability to understand and analyze complex systems 
 
 - Postdoctoral researcher at the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/) with Prof. Dr. Olga Sorkine-Hornung.
 
-#### [2023] __Adobe__, _Research Internship_
+#### [Summer 2023] __Adobe__, _Research Internship_
 
 - Investigating material and appearance capture, mentored by Valentin Deschaintre and Julien Philip.
 
@@ -35,15 +35,13 @@ Strong math understanding • Ability to understand and analyze complex systems 
 
 - Founder, working on [short films](https://rubenwiersma.nl/tags.html#film), [graphic design](https://rubenwiersma.nl/tags.html#graphic-design) and web development.
 
-#### [2008 - 2010] __GoPublic__, _Web Developer_
-
-- Back-end developer for websites and and business administration webapps.
 
 ## Education
 
 #### [2019 - 2024] __TU Delft__, _PhD Computer Graphics_ __Cum Laude__
 Supervised by Elmar Eisemann, Klaus Hildebrandt and Joris Dik
 
+- Dissertation: [Intrinsic approaches to learning and computing on curved surfaces](https://repository.tudelft.nl/record/uuid:63932f79-d73d-45db-8cec-ce450204b939)
 - Geometry processing and machine learning (3 SIGGRAPH publications).
 - Applications of computer graphics and machine learning for painting analysis (1 journal, 1 conference).
 - Responsibilities: lecturing, lab assistance, creating assignments, thesis supervision (10 BSc, 3 MSc).
@@ -58,8 +56,10 @@ Supervised by Elmar Eisemann, Klaus Hildebrandt and Joris Dik
 
 #### [2013 - 2014] __TU Delft__, _Propedeuse Industrial Design Engineering_ __Cum Laude__
 
-
+<br />
 ## Service
+
+#### [2024 - present] __SIGGRAPH Thesis Fast Forward__, _Chair_
 
 #### [Summer 2022] __MIT Summer Geometry Initiative (SGI)__, _Mentor_
 
@@ -92,11 +92,11 @@ Supervised by Elmar Eisemann, Klaus Hildebrandt and Joris Dik
 
 #### [September 2022] __GCH '22__, _[A New Baseline for Feature Description on Multimodal Imaging of Paintings](https://rubenwiersma.nl/publications/2022/09/28/A-New-Baseline.html)_ __Best Paper__
 
-#### [July 2022] __SIGGRAPH '22__, _[DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds](https://rubenwiersma.n/deltaconv)_
+#### [July 2022] __SIGGRAPH '22__, _[DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds](https://rubenwiersma.nl/deltaconv)_
 
 #### [July 2022] __CVPR '22__, _[Deep Vanishing Point Detection: Geometric priors make dataset variations vanish](https://arxiv.org/pdf/2203.08586.pdf)_
 
-#### [July 2020] __SIGGRAPH '20__, _[CNNs on Surfaces using Rotation-Equivariant Features](https://rubenwiersma.n/hsn)_
+#### [July 2020] __SIGGRAPH '20__, _[CNNs on Surfaces using Rotation-Equivariant Features](https://rubenwiersma.nl/hsn)_
 
 #### [July 2020] __Heritage Science__, _[Revealing unique inscriptions of in Doodencel 601 of the Oranjehotel](https://doi.org/10.1186/s40494-020-00418-8)_
 
@@ -111,14 +111,10 @@ _October 2019, October 2020, May 2024_
 
 ## Talks
 
-#### 28th February 2024, __INRIA Sophia Antipolis__
+#### February 2024, __ISTA Vienna, ETH Zürich, INRIA Sophia Antipolis__
 Invited talk: Intrinsic Approaches to Learning and Computing on Curved Surfaces
 
-#### 23rd February 2024, __ETH Zürich__
-Invited talk: Intrinsic Approaches to Learning and Computing on Curved Surfaces
-
-#### 19th February 2024, __ISTA Vienna__
-Invited talk: Intrinsic Approaches to Learning and Computing on Curved Surfaces
+<br />
 
 #### October 2023, __Johns Hopkins University__
 Lecture: [Introduction to Blender for Students in Computer Graphics](https://youtu.be/_nmZ5JeH0N4)
