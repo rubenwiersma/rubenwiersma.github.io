@@ -20,10 +20,12 @@ body {
 
 /* Image alignment */
 img[alt$=">"] {
+    margin-left: 5px;
     float: right;
 }
   
 img[alt$="<"] {
+    margin-right: 5px;
     float: left;
 }
 
