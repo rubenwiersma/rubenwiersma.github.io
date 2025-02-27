@@ -20,10 +20,12 @@ body {
 
 /* Image alignment */
 img[alt$=">"] {
+    margin-left: 5px;
     float: right;
 }
   
 img[alt$="<"] {
+    margin-right: 5px;
     float: left;
 }
 
@@ -54,6 +56,11 @@ img[alt$="><"] {
 img.post-featured {
     height: 5rem;
     float: right;
+}
+img.profile_home {
+    height: 7rem;
+    float: right;
+    margin-left: 5px;
 }
 
 /* Nav */
