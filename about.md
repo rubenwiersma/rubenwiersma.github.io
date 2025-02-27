@@ -30,6 +30,8 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 #### [2024 - Present] __ETH Zürich__, _Postdoctoral Researcher_
 
 - Postdoctoral researcher at the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/) with Prof. Dr. Olga Sorkine-Hornung.
+- Research on machine learning + geometry processing (object capture, geometric deep learning).
+- Associate lecturer for _Shape Modelling and Geometry Processing_ course.
 
 <hr />
 
