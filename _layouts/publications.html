@@ -21,7 +21,8 @@ layout: page
       {% if post.awards %}
       <h4><i>Awarded {{ post.awards }}</i></h4>
       {% endif %}
-      <span class="post-type">{{ post.type }}</span> by <span class="post-authors">{{ post.authors }}</span> in {{ post.venue }}
+      <span class="post-type">{{ post.type }}</span> by <span class="post-authors">{{ post.authors }}</span><br />
+      <span class="post-type">{{ post.venue }}</span>
     </div>
   </article>
   {% endfor %}
