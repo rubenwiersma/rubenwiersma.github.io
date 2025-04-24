@@ -17,7 +17,7 @@ doi: "10.1145/3721238.3730592"
 # pdf: "https://graphics.tudelft.nl/~klaus/papers/Gravo_MG.pdf"
 projectpage: "https://svbrdf-uncertainty.github.io"
 code: "https://svbrdf-uncertainty.github.io"
-img: "/assets/img/publications/svbrdf-uncertainty.jpg"
+img: "/assets/img/publications/svbrdf_uncertainty.jpg"
 bib: "@inproceedings{wiersma2025svbrdfuncertainty,<br />
   author = {Wiersma, Ruben and Philip, Julien and Hašan, Miloš and Mullia, Krishna and Luan, Fujun and Eisemann, Elmar and Deschaintre, Valentin},<br />
   title = {Uncertainty for SVBRDF Acquisition using Frequency Analysis},<br />
