@@ -11,7 +11,7 @@ layout: page
     {% if post.img %}
     <img src="{{ post.img }}" class="post-featured">
     {% endif %}
-    <small>{{ post.date | date: "%B %Y" }}</small><br />
+    <span class="post-type">{{ post.venue }}</span><small>, {{ post.date | date: "%B %Y" }}</small><br />
     <h3 class="post-title">
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
@@ -21,8 +21,7 @@ layout: page
       {% if post.awards %}
       <h4><i>Awarded {{ post.awards }}</i></h4>
       {% endif %}
-      <span class="post-type">{{ post.type }}</span> by <span class="post-authors">{{ post.authors }}</span><br />
-      <span class="post-type">{{ post.venue }}</span>
+      <span class="post-type">{{ post.type }}</span> by <span class="post-authors">{{ post.authors }}</span>
     </div>
   </article>
   {% endfor %}
