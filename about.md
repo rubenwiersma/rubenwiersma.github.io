@@ -71,7 +71,7 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 #### [2019 - 2024] __TU Delft__, _PhD Computer Graphics_ __Cum Laude__
 Supervised by Elmar Eisemann, Klaus Hildebrandt and Joris Dik
 
-- Geometry processing and machine learning (3 SIGGRAPH publications).
+- Geometry processing and machine learning (4 SIGGRAPH publications).
 - Applications of computer graphics and machine learning for painting analysis (1 journal, 1 conference).
 - Responsibilities: lecturing, lab assistance, creating assignments, thesis supervision (10 BSc, 3 MSc).
 
