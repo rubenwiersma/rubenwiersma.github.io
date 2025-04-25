@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2020-03-27T12:20:55-01:00
 venue: "SIGCSE ’20"
 abstract: "Many universities digitize exams or the process of grading the exams. This potentially allows for faster grading, is less labor intensive and less error-prone. But are the grades produced by online grading consistent with how we grade on paper? In this paper we present preliminary results of the comparison between scores given by grading online and grading on paper."
-authors: "G. Migut and R. Wiersma"
+authors: "G. Migut and <b>R. Wiersma</b>"
 type: "InProceedings"
 doi: "10.1145/3328778.3372630"
 bib: "@InProceedings{Migut2020,<br />
