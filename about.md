@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 ![Ruben >](/assets/img/profile_2025.jpg)
-I am a postdoctoral researcher at the Interactive Geometry Lab at ETH Zürich since September 2024. In my research I seek to connect computer graphics- and geometry processing techniques to applications in machine learning. I received my doctorate _cum laude_ from the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl) in October 2024. I was advised by [Dr. Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus) and supervised by [Prof. Dr. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann) and Prof. Dr. Joris Dik.
+I am a postdoctoral researcher at the Interactive Geometry Lab at ETH Zurich since September 2024. In my research I seek to connect computer graphics- and geometry processing techniques to applications in machine learning. I received my doctorate _cum laude_ from the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl) in October 2024. I was advised by [Dr. Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus) and supervised by [Prof. Dr. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann) and Prof. Dr. Joris Dik.
 
 I have gathered experience as a graphic designer and filmmaker during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy [making music](https://soundcloud.com/rubenwiersma), reading and discussing books, watching movies, biking, and playing soccer.
 
@@ -27,7 +27,7 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 <hr />
 
 
-#### [2024 - Present] __ETH Zürich__, _Postdoctoral Researcher_
+#### [2024 - Present] __ETH Zurich__, _Postdoctoral Researcher_
 
 - Postdoctoral researcher at the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/) with Prof. Dr. Olga Sorkine-Hornung.
 - Research on machine learning + geometry processing (object capture, geometric deep learning).
