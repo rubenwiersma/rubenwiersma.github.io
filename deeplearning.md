@@ -10,6 +10,16 @@ ETH Zurich
 
 <img src="assets/img/publications/sgp_dl.jpg" class="featured" width="80%">
 
+<span class="link-block">
+    <a href="static/pdf/svbrdf_uncertainty_siggraph_2025.pdf" target="_blank"
+        class="external-link button is-normal is-rounded is-dark">
+        <span class="icon">
+            <i class="fas fa-file-pdf"></i>
+        </span>
+        <span>Paper</span>
+    </a>
+</span>
+
 <a id="slides-link"
       class="icon" title="Slides" aria-label="Github Project"
       href="assets/pdf/deeplearning_meshes_pointclouds.pdf" target="_blank">
@@ -20,7 +30,7 @@ ETH Zurich
     <i class="fa fa-2x fa-video"></i> Recording</a>&nbsp;&nbsp;
 <a id="code-link"
       class="icon" title="DeltaConv supplement PDF" aria-label="PDF link"
-      href="/assets/misc/sgp25_dl_tutorial.zip" target="_blank">
+      href="/assets/misc/sgp_dl_tutorial.zip" target="_blank">
     <i class="fa fa-2x fa-code"></i> Tutorial</a>
 
 ## Summary
