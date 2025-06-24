@@ -14,7 +14,7 @@ abstract: "This paper aims to quantify uncertainty for SVBRDF acquisition in mul
 authors: "<b>R. Wiersma</b>, J. Philip, M. Hasan, K. Mullia, F. Luan, E. Eisemann, V. Deschaintre"
 type: "Article"
 doi: "10.1145/3721238.3730592"
-# pdf: "https://graphics.tudelft.nl/~klaus/papers/Gravo_MG.pdf"
+pdf: "https://svbrdf-uncertainty.github.io/static/pdf/svbrdf_uncertainty_siggraph_2025.pdf"
 projectpage: "https://svbrdf-uncertainty.github.io"
 code: "https://svbrdf-uncertainty.github.io"
 img: "/assets/img/publications/svbrdf_uncertainty.jpg"
