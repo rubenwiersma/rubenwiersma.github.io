@@ -4,7 +4,7 @@ title: "Deep Learning on Meshes and Point Clouds"
 sidebar_link: false
 ---
 ## SGP 2025 Graduate School
-# Deep Learning on Meshes and Point Clouds
+# Course: Deep Learning on Meshes and Point Clouds
 [Ruben Wiersma](https://rubenwiersma.nl/)<br />
 ETH Zurich
 
