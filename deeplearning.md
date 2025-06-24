@@ -20,7 +20,7 @@ ETH Zurich
     <i class="fa fa-2x fa-video"></i> Recording</a>&nbsp;&nbsp;
 <a id="code-link"
       class="icon" title="DeltaConv supplement PDF" aria-label="PDF link"
-      href="/assets/misc/sgp_dl_tutorial.zip" target="_blank">
+      href="/assets/misc/sgp_dl_tutorial.zip">
     <i class="fa fa-2x fa-code"></i> Tutorial (11KB zip)</a>
 
 ## Summary
