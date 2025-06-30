@@ -19,9 +19,13 @@ ETH Zurich
       href="#" target="_blank">
     <i class="fa fa-2x fa-video"></i> Recording</a>&nbsp;&nbsp;
 <a id="code-link"
-      class="icon" title="DeltaConv supplement PDF" aria-label="PDF link"
-      href="/assets/misc/sgp_dl_tutorial.zip">
+      class="icon" title="Tutorial Code" aria-label="Zip archive"
+      href="https://github.com/rubenwiersma/deeplearning_meshes_pointclouds/archive/refs/heads/main.zip">
     <i class="fa fa-2x fa-code"></i> Tutorial (11KB zip)</a>
+<a id="code-link"
+      class="icon" title="Tutorial Code" aria-label="Github repository"
+      href="https://github.com/rubenwiersma/deeplearning_meshes_pointclouds/">
+    <i class="fa fa-2x fa-github"></i> Tutorial (Github)</a>
 
 ## Summary
 Data-driven algorithms have proven valuable for many tasks, with high-profile success in image understanding and synthesis and language modelling. In this course, we look at how such algorithms can be used for data on curved surfaces. Our aim is to give researchers the required background to use such algorithms in an informed way in their own research. We consider the types of data and tasks that are relevant for mesh- and point-cloud surfaces, the requirements on our algorithms (e.g., scaling and generalization over the representation), and review the state-of-the-art for how these requirements can be met.
