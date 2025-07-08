@@ -16,7 +16,7 @@ ETH Zurich
     <i class="fa fa-2x fa-file-pdf-o"></i> Slides (7.3MB)</a>&nbsp;&nbsp;
 <a id="video-link"
       class="icon" title="Recording" aria-label="PDF link"
-      href="#" target="_blank">
+      href="https://www.graphics.rwth-aachen.de/blockstorage/free/sgp_school_2025_videos/SGP%20Graduate%20School%202025%20-%20Deep%20Learning%20on%20Meshes%20and%20Point%20Clouds.mp4" target="_blank">
     <i class="fa fa-2x fa-video"></i> Recording</a>&nbsp;&nbsp;
 <a id="code-link"
       class="icon" title="Tutorial Code" aria-label="Zip archive"
