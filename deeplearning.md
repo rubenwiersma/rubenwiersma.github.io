@@ -30,6 +30,9 @@ ETH Zurich
 ## Summary
 Data-driven algorithms have proven valuable for many tasks, with high-profile success in image understanding and synthesis and language modelling. In this course, we look at how such algorithms can be used for data on curved surfaces. Our aim is to give researchers the required background to use such algorithms in an informed way in their own research. We consider the types of data and tasks that are relevant for mesh- and point-cloud surfaces, the requirements on our algorithms (e.g., scaling and generalization over the representation), and review the state-of-the-art for how these requirements can be met.
 
+## Lecture
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZE5Y8nD42v8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="margin: 50px auto" allowfullscreen></iframe>
+
 ## Contact
 This course was developed by Ruben Wiersma. If you have questions or comments, <a href="mailto:rubenwiersma@gmail.com">contact me by mail</a>.
 
