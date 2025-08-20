@@ -3,8 +3,8 @@
 # Dr. Ruben Wiersma
 - 7 September 1994
 - [rubenwiersma@gmail.com](mailto:rubenwiersma@gmail.com)
-- +316 278 799 30
-- CH 
+- +31 06 27879930
+- Zurich, CH 
 - [rubenwiersma.nl](https://rubenwiersma.nl)
 
 I am a postdoctoral researcher at ETH Zürich in the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/). My interests include geometry processing, optimization, and machine learning. I received my doctorate _cum laude_ from the [CGV group at the TU Delft](http://graphics.tudelft.nl) and interned at Adobe as a research intern, studying material capture with differentiable rendering. I have a soft spot for working with creatives and enjoy working on my own [short films, design and music](https://rubenwiersma.nl/category/creative-portfolio.html).
