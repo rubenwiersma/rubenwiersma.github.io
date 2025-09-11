@@ -10,8 +10,7 @@
 I am a postdoctoral researcher at ETH Zürich in the [Interactive Geometry Lab (IGL)](https://igl.ethz.ch/). My interests include geometry processing, optimization, and machine learning. I received my doctorate _cum laude_ from the [CGV group at the TU Delft](http://graphics.tudelft.nl) and interned at Adobe as a research intern, studying material capture with differentiable rendering. I have a soft spot for working with creatives and enjoy working on my own [short films, design and music](https://rubenwiersma.nl/category/creative-portfolio.html).
 
 ### Skills and qualities
-Python • PyTorch • Numpy • JAX • C++ • Mitsuba • Blender • Adobe CC • Git • Linux • macOS • 
-Machine Learning • Strong math understanding • Ability to understand and analyze complex systems • Eye for clean, maintainable, and understandable code - [example project](https://github.com/rubenwiersma/deltaconv) • Creative thinking • Presentation and communication - [example presentation](https://www.youtube.com/watch?v=pKVtuz4dG0g) • Perseverance
+Cross-disciplinary collaboration • Communication and presentation - [example presentation](https://www.youtube.com/watch?v=pKVtuz4dG0g) • Creative thinking • Strong math understanding • Ability to understand and analyze complex systems • Eye for clean, maintainable, and understandable code - [example project](https://github.com/rubenwiersma/deltaconv) • Geometry Processing • Generative AI • Machine Learning • Python • PyTorch • Numpy • JAX • C++ • Mitsuba • Blender • Adobe CC • Git • Linux • macOS
 
 ## Experience
 
@@ -24,10 +23,6 @@ Machine Learning • Strong math understanding • Ability to understand and ana
 
 - Investigating material and appearance capture, mentored by Valentin Deschaintre and Julien Philip.
 
-#### [2019] __TU Delft__, _Teaching Assistant_
-
-- Developed assignments for new datamining and Machine Learning courses and lab assistance.
-
 #### [2017] __GeoPhy__, _Development Internship_
 
 - Developed end-to-end machine learning solution for estimating real-estate value.
@@ -35,6 +30,32 @@ Machine Learning • Strong math understanding • Ability to understand and ana
 #### [2012 - 2022] __Wiersma Brothers, freelance__, _Video producer, graphic designer_
 
 - Founder, working on [short films](https://rubenwiersma.nl/tags.html#film), [graphic design](https://rubenwiersma.nl/tags.html#graphic-design) and web development.
+
+## Teaching Experience
+
+#### __SGP Graduate School__ [Deep Learning on Meshes and Point Clouds, spring 2025](http://rubenwiersma.nl/deeplearning)
+
+- **Course organizer and lecturer** for introductory course on deep learning for 3D data.
+
+#### __ETH Zürich__, [Shape Modelling and Geometry Processing, spring 2024](https://igl.ethz.ch/teaching/shape-modeling/sm2025/)
+
+- **Associate Lecturer** for master course of 50 students.
+
+#### __ETH Zürich__ and __TU Delft__, BSc, MSc and PhD supervision, 2019-2025
+
+- **Daily supervisor** on 11 BSc research projects (one published), and 3 MSc theses.
+- **Collaborator and advisor** for three PhD students.
+
+#### __TU Delft__, BK7084 Computational Simulations, 2019-2023
+
+- **Teaching assistant** for BSc elective on computer graphics techniques for architecture students.
+- Instruction, assistance to students for lab assignments.
+- Modernized assignments.
+
+#### __TU Delft__, BSc Machine Learning, 2019
+
+- **Teaching assistant** for BSc course on fundamental machine learning techniques.
+- Implemented and wrote course materials (programming assignments, still used as of 2024).
 
 ## Education
 
@@ -57,6 +78,10 @@ Supervised by Elmar Eisemann, Klaus Hildebrandt and Joris Dik
 #### [2013 - 2014] __TU Delft__, _Propedeuse Industrial Design Engineering_ __Cum Laude__
 
 ## Service
+
+#### [2025 - 2026] __Symposium on Geometry Processing (SGP)__, _Graduate School Chair_
+
+#### [2025] __SIGGRAPH Asia__, _Conflict of Interest Coordinator_
 
 #### [2024 - 2025] __Symposium on Geometry Processing (SGP)__, _Committee member_
 
@@ -126,10 +151,19 @@ _October 2019, October 2020, May 2024_
 
 ## Talks
 
+#### 1st July 2025, __Symposium on Geometry Processing Graduate School__
+Deep Learning on Meshes and Point Clouds
+
 #### 5th February 2025, __Mathematical Imaging and Surface Processing Workshop Oberwolfach__
 Intrinsic Approaches to Learning and Computing on Curved Surfaces
 
-#### February 2024, __ISTA Vienna, ETH Zürich, INRIA Sophia Antipolis__
+#### March 2024, __INRIA Sophia Antipolis__
+Invited talk: Intrinsic Approaches to Learning and Computing on Curved Surfaces
+
+#### February 2024, __ETH Zürich__
+Invited talk: Intrinsic Approaches to Learning and Computing on Curved Surfaces
+
+#### February 2024, __ISTA Vienna__
 Invited talk: Intrinsic Approaches to Learning and Computing on Curved Surfaces
 
 #### October 2023, __Johns Hopkins University__
