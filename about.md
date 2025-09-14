@@ -21,4 +21,4 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 
 # CV
 
-You can [find my CV](/assets/pdf/cv_rubenwiersma.pdf) here. An overview of my [publications can be found here](/category/publications.html).
+You can [find my CV](/assets/cv/academic_cv_rubenwiersma.pdf) here. An overview of my [publications can be found here](/category/publications.html).
