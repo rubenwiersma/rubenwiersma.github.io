@@ -4,6 +4,20 @@ _site
 .ruby-version
 .jekyll-cache
 
+# Latex output files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.run.xml
+*.bbl
+*.bcf
+*.bst
+*.blg
+
+
 # Numerous always-ignore extensions
 *.diff
 *.err

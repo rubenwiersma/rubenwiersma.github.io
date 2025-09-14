@@ -1,0 +1,128 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+\definecolor{color1}{rgb}{0.75, 0.08, 0.25}
+\definecolor{color2}{rgb}{0.2, 0.2, 0.2}
+\moderncvstyle{classic}
+\colorlet{firstnamecolor}{color0}
+\renewcommand*{\namefont}{\fontsize{28}{34}\mdseries\upshape}
+
+\usepackage{libertine}
+\usepackage[hmargin=1.5cm, vmargin=1.5cm]{geometry}
+\usepackage{xcolor}
+\usepackage[backend=biber,style=ieee,maxbibnames=99, sorting=ydnt]{biblatex}
+\defbibenvironment{bibliography}
+  {\list
+     {\printfield[labelnumberwidth]{labelnumber}}
+     {%
+      \setlength{\labelwidth}{3em}     % width of the number box
+      \setlength{\labelsep}{1em}       % gap between number and text
+      \setlength{\leftmargin}{6.5em}  % <--- indentation for the whole block
+      \setlength{\itemindent}{0pt}
+      \setlength{\itemsep}{\bibitemsep}
+      \setlength{\parsep}{\bibparsep}
+      }}
+  {\endlist}
+  {\item}
+
+\addbibresource{publications.bib}
+
+\name{Ruben}{Wiersma}
+\title{Curriculum Vitae}
+\born{7 September 1994}
+\address{Zurich, CH}{}{}
+\phone[mobile]{+31 06 27879930}
+\email{rubenwiersma@gmail.com}
+\homepage{rubenwiersma.nl}
+\social[linkedin]{rubenwiersma}
+\social[github]{rubenwiersma}
+\photo[70pt][0pt]{profile_ruben.jpg}
+
+
+\begin{document}
+\makecvtitle
+
+\section{Profile}
+Dr. Ruben Wiersma is a computer scientist specialized in \textbf{artifical intelligence and geometry processing} with a strong creative background. He is a \textit{postdoctoral researcher at ETH Zurich (Interactive Geometry Lab)}, PhD (cum laude, TU Delft), with industrial experience at Adobe. Research interests: AI and geometry processing for 3D design.
+
+\section{Education}
+\cventry{2019--2024}{PhD, Computer Graphics}{TU Delft}{Delft}{\textbf{Cum Laude}}{
+  Dissertation: \textit{\href{https://repository.tudelft.nl/record/uuid:63932f79-d73d-45db-8cec-ce450204b939}{Intrinsic Approaches to Learning and Computing on Curved Surfaces}}.\newline
+  Promotors: Prof. Dr. Elmar Eisemann, Prof. Dr. Joris Dik.
+  \begin{itemize}\itemsep0pt
+    \item Artificial intelligence and geometry processing (4 ACM SIGGRAPH publications).
+    \item Applications in painting analysis (1 journal, 1 conference).
+  \end{itemize}
+}
+\cventry{2017--2019}{MSc, Computer Science}{TU Delft}{Delft}{\textbf{Cum Laude}}{
+  Focus on computer graphics and machine learning. Thesis (9/10): \textit{\href{https://repository.tudelft.nl/islandora/object/uuid:931ee653-eb26-40c2-8f54-9c5835fd6fba/datastream/OBJ/download}{Harmonic Surface Networks}}.
+}
+\cventry{2014--2017}{BSc, Computer Science}{TU Delft}{Delft}{\textbf{Cum Laude}}{
+  Focus on multimedia and data science. Thesis: \textit{\href{https://repository.tudelft.nl/islandora/object/uuid:d2a020e3-07b3-42c8-a926-0e0e2f7ed6f0/datastream/OBJ/download}{Automating Valuations for Real-Estate}}.
+}
+\cventry{2013--2014}{Propedeuse, Industrial Design Engineering}{TU Delft}{Delft}{\textbf{Cum Laude}}{}
+
+\section{Teaching Experience}
+\cventry{2025}{Lecturer}{Graduate School, Symposium on Geometry Processing}{Bilbao}{}{
+\href{https://rubenwiersma.nl/deeplearning}{Deep Learning on Meshes and Point Clouds} (100 attendants).
+}
+\cventry{2024}{Associate Lecturer}{ETH Zurich, Computer Science}{Zurich}{}{MSc course \href{https://igl.ethz.ch/teaching/shape-modeling/sm2025/}{Shape Modelling \& Geometry Processing} (50 students).}
+\cventry{2024--2025}{Daily Supervisor}{ETH Zurich}{Zurich}{}{
+1 BSc thesis, 3 PhD students.
+}
+\cventry{2019--2025}{Daily Supervisor}{TU Delft, EEMCS}{Delft}{}{
+10 BSc, 3 MSc theses, 1 PhD student.
+}
+\cventry{2019--2023}{Teaching Assistant}{TU Delft, Architecture and the Built Environment}{Delft}{}{BSc elective BK7084 Computational Simulations (20 students). Lab instructions, created assignments.}
+\cventry{2019}{Teaching Assistant}{TU Delft, EEMCS}{Delft}{}{BSc Machine Learning ($\sim$500 students). Wrote programming assignments (still used as of 2025).}
+
+\section{Professional Experience}
+\cventry{2024--Present}{Postdoctoral Researcher}{ETH Zurich (Interactive Geometry Lab)}{Zurich}{}{
+Research on AI for 3D modeling. Associate Lecturer on Shape Modelling and Geometry Processing.
+}
+\cventry{2023}{Research Intern}{Adobe}{San Francisco}{}{Material/appearance capture with differentiable rendering and AI.}
+\cventry{2017}{Software Development Intern}{GeoPhy}{Delft}{}{End-to-end pipeline to train machine learning models for real-estate valuation.}
+\cventry{2012--2022}{Founder}{Wiersma Brothers}{Leiden}{}{Video producer, graphic designer. Clients: TU Delft, VU Amsterdam, YES!Delft.}
+\newpage
+\section{Awards and Honors}
+\cvitem{2024}{Google Cloud Research Compute Grant (1000 EUR)}
+\cvitem{2024}{ACM SIGGRAPH Thesis Fast Forward Selection}
+\cvitem{2022}{Best Full Paper Award, Eurographics Workshop on Graphics and Cultural Heritage}
+\cvitem{2020}{Google Cloud Research Compute Grant (1000 EUR)}
+\cvitem{2019}{Google Cloud Research Compute Grant (1000 EUR)}
+\cvitem{2019}{Hackathon for Good Winner (Client: European Commission)}
+\cvitem{2017}{Fulbright Scholarship (20.000 USD - offered, declined)}
+
+\section{Peer-Reviewed Publications}
+\nocite{*}
+\printbibliography[heading=none]
+
+\section{Service}
+\cvitem{2025--2026}{\textbf{Chair}, ACM/Eurographics Symposium on Geometry Processing Graduate School}
+\cvitem{2025}{\textbf{Conflict of Interest Coordinator}, ACM SIGGRAPH Asia}
+\cvitem{2024--2025}{\textbf{Program Committee}, ACM/Eurographics Symposium on Geometry Processing}
+\cvitem{2024--2025}{\textbf{Chair}, ACM SIGGRAPH Thesis Fast Forward}
+\cvitem{2022}{\textbf{Local Organiser}, Eurographics Workshop on Graphics and Cultural Heritage}
+\cvitem{2022}{\textbf{Mentor, Supervisor}, MIT Summer Geometry Initiative}
+\cvitem{2020-2022}{\textbf{Member}, ACM SIGGRAPH Research and Career Development Committee}
+\cvitem{2020--}{\textbf{Reviewer}, ACM SIGGRAPH, ACM Trans. Graph., Pacific Graphics, Computers \& Graphics}
+
+\newpage
+\section{Invited Talks}
+\cvitem{2025}{Symposium on Geometry Processing\newline\textit{Deep Learning on Meshes and Point Clouds.}}
+\cvitem{2025}{Mathematical Imaging and Surface Processing Workshop Oberwolfach\newline\textit{Intrinsic Approaches to Learning and Computing on Curved Surfaces.}}
+\cvitem{2024}{INRIA Sophia Antipolis (hosted by Prof. Dr. George Drettakis)\newline\textit{Intrinsic Approaches to Learning and Computing on Curved Surfaces.}}
+\cvitem{2024}{ETH Zurich (hosted by Prof. Dr. Olga Sorkine-Hornung)\newline\textit{Intrinsic Approaches to Learning and Computing on Curved Surfaces.}}
+\cvitem{2024}{ISTA Vienna (hosted by Prof. Dr. Chris Wojtan)\newline\textit{Intrinsic Approaches to Learning and Computing on Curved Surfaces.}}
+\cvitem{2023}{Johns Hopkins University (hosted by Dr. Crane He Chen)\newline\textit{Introduction to Blender for Students in Computer Graphics.}}
+\cvitem{2022}{UChicago (hosted by Dr. Rana Hanocka)\newline\textit{DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds.}}
+\cvitem{2021}{Mathematics and Art symposium at DMV ÖMG Annual Conference 2021\newline\textit{Communicating Perspective in 17th Century Paintings to Modern Audiences.}}
+\cvitem{2021}{University Utrecht (hosted by Dr. Sanne Frequin)\newline\textit{Applications of Computer Graphics for Painting Analysis.}}
+\cvitem{2020}{TU Delft, IDE (hosted by Prof. Dr. Sylvia Pont)\newline\textit{Applications of Computer Graphics for Painting Analysis.}}
+\cvitem{2020}{Stanford University (hosted by Prof. Dr. Leonidas J. Guibas)\newline\textit{CNNs on Surfaces using Rotation-Equivariant Features.}}
+
+\section{References}
+\cvitem{}{Prof. Dr. Elmar Eisemann, TU Delft EEMCS (promotor) -- e.eisemann@tudelft.nl}
+\cvitem{}{Dr. Klaus Hildebrandt, TU Delft EEMCS (advisor) -- k.a.hildebrandt@tudelft.nl}
+\cvitem{}{Dr. Abbie Vandivere, Mauritshuis (collaborator) -- a.vandivere@mauritshuis.nl}
+\cvitem{}{Prof. Dr. Olga Sorkine-Hornung, ETH Zurich (advisor) -- olga.sorkine@inf.ethz.ch}
+
+\end{document}
