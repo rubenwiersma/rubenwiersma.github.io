@@ -3,7 +3,7 @@ layout: project
 title: "Deep Learning on Meshes and Point Clouds"
 sidebar_link: false
 ---
-## SGP 2025 Graduate School
+## Eurographics 2026 Tutorial, SGP 2025 Graduate School
 # Course: Deep Learning on Meshes and Point Clouds
 [Ruben Wiersma](https://rubenwiersma.nl/)<br />
 ETH Zurich
