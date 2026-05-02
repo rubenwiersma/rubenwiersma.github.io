@@ -13,7 +13,7 @@ ETH Zurich
 <a id="slides-link"
       class="icon" title="Slides" aria-label="Github Project"
       href="assets/pdf/deeplearning_meshes_pointclouds.pdf" target="_blank">
-    <i class="fa fa-2x fa-file-pdf-o"></i> Slides (7.3MB)</a>&nbsp;&nbsp;
+    <i class="fa fa-2x fa-file-pdf-o"></i> Slides (14.5MB)</a>&nbsp;&nbsp;
 <a id="video-link"
       class="icon" title="Recording" aria-label="PDF link"
       href="https://www.youtube.com/watch?v=ZE5Y8nD42v8" target="_blank">
@@ -21,7 +21,7 @@ ETH Zurich
 <a id="code-link"
       class="icon" title="Tutorial Code" aria-label="Zip archive"
       href="https://github.com/rubenwiersma/deeplearning_meshes_pointclouds/archive/refs/heads/main.zip">
-    <i class="fa fa-2x fa-code"></i> Tutorial (11KB zip)</a>
+    <i class="fa fa-2x fa-code"></i> Tutorial (18KB zip)</a>
 <a id="code-link"
       class="icon" title="Tutorial Code" aria-label="Github repository"
       href="https://github.com/rubenwiersma/deeplearning_meshes_pointclouds/">
