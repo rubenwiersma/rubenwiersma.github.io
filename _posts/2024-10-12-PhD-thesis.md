@@ -17,6 +17,7 @@ tags:
   - Geometry processing
 last_modified_at: 2024-10-12T10:21:00-01:00
 venue: "PhD Thesis"
+awards: "Eurographics PhD Award 2026"
 abstract: "This dissertation develops intrinsic approaches to learning and computing on curved surfaces. Specifically, we work on three tasks: analyzing 3D shapes using convolutional neural networks (CNNs), solving linear systems on curved surfaces, and recovering appearance properties from curved surfaces using multi-view capture. We argue that we can find more efficient and better performing algorithms for these tasks by using intrinsic geometry."
 authors: "R.T. Wiersma"
 type: "PhD Thesis"
