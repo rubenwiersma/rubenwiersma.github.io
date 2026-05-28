@@ -19,9 +19,39 @@ layout: page
     </h3>
     <div class="post-meta">
       {% if post.awards %}
-      <h4><i>Awarded {{ post.awards }}</i></h4>
+      <h4><i class="fa-solid fa-trophy" style="color: #f59e0b;"></i> <i>Awarded {{ post.awards }}</i></h4>
       {% endif %}
       <span class="post-type">{{ post.type }}</span> by <span class="post-authors">{{ post.authors }}</span>
     </div>
+    {% if post.doi or post.pdf or post.code or post.projectpage or post.project or post.presentation %}
+    <div class="pub-links">
+      {% if post.doi %}
+      <a href="https://doi.org/{{ post.doi }}" target="_blank" rel="noopener">
+        <i class="fa-solid fa-link"></i> DOI
+      </a>
+      {% endif %}
+      {% if post.pdf %}
+      <a href="{{ post.pdf }}" target="_blank" rel="noopener">
+        <i class="fa-solid fa-file-pdf"></i> PDF
+      </a>
+      {% endif %}
+      {% if post.code %}
+      <a href="{{ post.code }}" target="_blank" rel="noopener">
+        <i class="fa-solid fa-code"></i> Code
+      </a>
+      {% endif %}
+      {% assign projectpage = post.projectpage | default: post.project %}
+      {% if projectpage %}
+      <a href="{{ projectpage }}" target="_blank" rel="noopener">
+        <i class="fa-solid fa-globe"></i> Project
+      </a>
+      {% endif %}
+      {% if post.presentation %}
+      <a href="{{ post.presentation }}" target="_blank" rel="noopener">
+        <i class="fa-solid fa-display"></i> Slides
+      </a>
+      {% endif %}
+    </div>
+    {% endif %}
   </article>
   {% endfor %}

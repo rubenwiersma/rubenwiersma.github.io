@@ -21,6 +21,7 @@ awards: "Eurographics PhD Award 2026"
 abstract: "This dissertation develops intrinsic approaches to learning and computing on curved surfaces. Specifically, we work on three tasks: analyzing 3D shapes using convolutional neural networks (CNNs), solving linear systems on curved surfaces, and recovering appearance properties from curved surfaces using multi-view capture. We argue that we can find more efficient and better performing algorithms for these tasks by using intrinsic geometry."
 authors: "R.T. Wiersma"
 type: "PhD Thesis"
+doi: "10.4233/uuid:63932f79-d73d-45db-8cec-ce450204b939"
 pdf: "https://repository.tudelft.nl/record/uuid:63932f79-d73d-45db-8cec-ce450204b939"
 img: "/assets/img/publications/phd_thesis.png"
 bib: "@PhdThesis{WiersmaIntrinsic2024,<br />

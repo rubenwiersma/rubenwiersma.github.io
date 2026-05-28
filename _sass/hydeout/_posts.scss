@@ -77,7 +77,7 @@ article + *,
 // Meta data line below post title
 .post-meta {
   color: $body-muted;
-  margin-bottom: 1rem;
+  margin-bottom: 0.6rem;
   margin-top: -0.5rem;
 }
 
@@ -90,4 +90,31 @@ article + *,
 
 button.disqus-load {
   margin-top: 1em;
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.6rem;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3em;
+    padding: 0.15em 0.6em;
+    font-size: 0.75rem;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    color: $body-muted;
+    white-space: nowrap;
+    transition: color 0.2s ease, border-color 0.2s ease;
+
+    &:hover,
+    &:focus {
+      color: $link-color;
+      border-color: $link-color;
+      text-decoration: none;
+    }
+  }
 }

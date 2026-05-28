@@ -13,7 +13,7 @@ abstract: "Cleaning and provisional restoration treatments on The Crucifixion (1
 authors: "L. Tissen, S. Frequin, <b>R. Wiersma</b>"
 type: "Journal"
 img: "https://www.digitalhumanities.org/dhq/vol/17/1/000663/resources/images/figure05.jpg"
-# doi: "10.2312/gch.20221223" 
+doi: "10.63744/et4j2vju3k5u"
 pdf: "http://www.digitalhumanities.org/dhq/vol/17/1/000663/000663.html#"
 bib: "@Article{Tissen2023,<br />
   author    = {Tissen, Liselore and Frequin, Sanne and Wiersma, Ruben},<br />
