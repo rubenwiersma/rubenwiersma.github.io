@@ -14,6 +14,11 @@ abstract: "During the Second World War the German occupants of the Netherlands m
 authors: "J. Wembe, R. van den Brink, E. Mooldijk, N. Feirabend, <b>R. Wiersma</b>, J. Sietsma and J. Dik"
 type: "Article"
 doi: "10.1186/s40494-020-00418-8" 
+coverage:
+  - name: "Volkskrant"
+    url: "https://www.volkskrant.nl/nieuws-achtergrond/de-weggestucte-tekst-in-de-dodencel-blijkt-van-een-nsb-er-die-wachtte-op-zijn-vonnis~b7cf0d59/"
+  - name: "NOS"
+    url: "https://nos.nl/artikel/2342175-delftse-studenten-ontdekken-teksten-nsb-er-in-cel-oranjehotel"
 bib: "@Article{WempeRevealing2020,<br />
   &nbsp;&nbsp;author    = {Joost Wembe, Rick van den Brink, Esmée Mooldijk, Nienke Feirabend, Ruben Wiersma, Jilt Sietsma, Joris Dik},<br />
   &nbsp;&nbsp;journal   = {Heritage Science},<br />

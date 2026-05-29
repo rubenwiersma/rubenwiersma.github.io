@@ -19,7 +19,7 @@ layout: default
   <div class="post-body">
 
   {% assign projectpage = page.projectpage | default: page.project %}
-  {% if page.doi or page.pdf or page.code or projectpage or page.presentation %}
+  {% if page.doi or page.pdf or page.code or projectpage or page.presentation or page.coverage %}
   <h4>Links</h4>
   <div class="pub-links">
     {% if page.doi %}
@@ -47,6 +47,11 @@ layout: default
       <i class="fa-solid fa-display"></i> Slides
     </a>
     {% endif %}
+    {% for item in page.coverage limit:3 %}
+    <a href="{{ item.url }}" target="_blank" rel="noopener">
+      <i class="fa-solid fa-newspaper"></i> {{ item.name }}
+    </a>
+    {% endfor %}
   </div>
   <br />
   {% endif %}

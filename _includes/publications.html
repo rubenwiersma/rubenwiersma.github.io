@@ -24,7 +24,7 @@
       {% endif %}
       <span class="post-authors">{{ post.authors }}</span>
     </div>
-    {% if post.doi or post.pdf or post.code or post.projectpage or post.project or post.presentation %}
+    {% if post.doi or post.pdf or post.code or post.projectpage or post.project or post.presentation or post.coverage %}
     <div class="pub-links">
       {% if post.doi %}
       <a href="https://doi.org/{{ post.doi }}" target="_blank" rel="noopener">
@@ -52,6 +52,11 @@
         <i class="fa-solid fa-display"></i> Slides
       </a>
       {% endif %}
+      {% for item in post.coverage limit:3 %}
+      <a href="{{ item.url }}" target="_blank" rel="noopener">
+        <i class="fa-solid fa-newspaper"></i> {{ item.name }}
+      </a>
+      {% endfor %}
     </div>
     {% endif %}
   </article>

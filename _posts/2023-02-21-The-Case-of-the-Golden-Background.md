@@ -15,6 +15,9 @@ type: "Journal"
 img: "https://www.digitalhumanities.org/dhq/vol/17/1/000663/resources/images/figure05.jpg"
 doi: "10.63744/et4j2vju3k5u"
 pdf: "http://www.digitalhumanities.org/dhq/vol/17/1/000663/000663.html#"
+coverage:
+  - name: "NPO Radio 1"
+    url: "https://www.nporadio1.nl/fragmenten/spraakmakers/e8fd8081-3002-4e5c-bbe9-21294a4b47bc/2023-11-21-in-hoeverre-kan-je-kunstwerken-terugbrengen-in-de-originele-staat"
 bib: "@Article{Tissen2023,<br />
   author    = {Tissen, Liselore and Frequin, Sanne and Wiersma, Ruben},<br />
   booktitle = {Digital Humanities Quarterly},<br />

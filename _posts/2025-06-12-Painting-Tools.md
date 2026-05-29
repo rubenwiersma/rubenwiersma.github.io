@@ -17,6 +17,9 @@ type: "DatasetCode"
 doi: "10.17605/OSF.IO/PGN28" 
 code: "https://github.com/rubenwiersma/painting_tools"
 img: "https://github.com/rubenwiersma/painting_tools/raw/main/img/ruysch_calibrated.png"
+coverage:
+  - name: "Hacker News"
+    url: "https://news.ycombinator.com/item?id=44259238"
 bib: "@misc{wiersma2025hyperspectral,<br />
   author       = {Wiersma, R.},<br />
   title        = {Hyperspectral Oil Paint and Painting Dataset},<br />
