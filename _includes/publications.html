@@ -22,7 +22,7 @@
       {% if post.awards %}
       <h4><i class="fa-solid fa-trophy" style="color: #f59e0b;"></i> Awarded {{ post.awards }}</h4>
       {% endif %}
-      <span class="post-type">{{ post.type }}</span> by <span class="post-authors">{{ post.authors }}</span>
+      <span class="post-authors">{{ post.authors }}</span>
     </div>
     {% if post.doi or post.pdf or post.code or post.projectpage or post.project or post.presentation %}
     <div class="pub-links">
