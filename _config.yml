@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Ruben Wiersma
-tagline:          'Computer Graphics, Art, and ML'
-description:      'Computer Graphics, Art, and ML.'
+tagline:          'Computer Graphics, Art and ML'
+description:      'Computer Graphics, Art and ML.'
 url:              https://rubenwiersma.nl/
 baseurl:          '/'
 google_analytics: 'UA-22932336-1'

@@ -39,11 +39,9 @@ body {
   padding: $section-spacing;
 
   .site-title {
-    font-family: 'Calistoga', sans-serif;
-    font-weight: normal;
-    font-size: $large-font-size;
-    font-weight: normal;
-    margin-bottom: $heading-spacing;
+    font-weight: bold;
+    font-size: 1.25rem;
+    margin-bottom: 0;
     margin-top: 0;
   }
 
@@ -114,7 +112,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 2.25rem;
+    font-size: 1.25rem;
   }
 
   // Show secondary nav content + lead
@@ -185,7 +183,7 @@ body {
     }
 
     .site-title {
-      font-size: 2.25rem;
+      font-size: 1.25rem;
       .back-arrow { display: none; }
     }
 
