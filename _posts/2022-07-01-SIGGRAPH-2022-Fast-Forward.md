@@ -1,5 +1,5 @@
 ---
-title: "SIGGRAPH 2022 Fast Forward"
+title: "Introducing DeltaConv - SIGGRAPH 2022 Fast Forward"
 layout: post
 categories:
   - Creative Portfolio
@@ -8,7 +8,7 @@ tags:
   - creative
   - Blender
   - animation
-last_modified_at: 2020-08-17T12:39:31-01:00
+last_modified_at: 2022-07-01T12:39:31-01:00
 ---
 
 I enjoy creating videos for SIGGRAPHs fast forward that straddle the line between humorous and informative. These videos also allow me to work on my Blender skills (this video: Geometry Nodes, a fully virtual set) and have some fun with storytelling. For SIGGRAPH 2022, I created a video for the paper [DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds](/deltaconv) as an homage to Jony Ive's product videos for Apple.

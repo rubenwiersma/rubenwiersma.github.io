@@ -1,5 +1,5 @@
 ---
-title: "3D Printed Restoration of a Painting"
+title: "3D Printed Restoration of a Medieval Painting"
 layout: post
 categories:
   - Creative Portfolio
@@ -14,4 +14,6 @@ A 16th century painting at the Catharijneconvent museum in Utrecht was found to 
 
 The project was detailed by the lead researcher on the project, Sanne Frequin, in the [unveiling of the 3D print](https://www.uu.nl/staff/SFrequin/Extra2) and [on national radio](https://www.nporadio1.nl/fragmenten/spraakmakers/e8fd8081-3002-4e5c-bbe9-21294a4b47bc/2023-11-21-in-hoeverre-kan-je-kunstwerken-terugbrengen-in-de-originele-staat).
 
-We also [published a paper together](https://rubenwiersma.nl/publications/2023/02/21/The-Case-of-the-Golden-Background.html), reporting on an earlier stage of the project.
+We also [published a paper together](https://rubenwiersma.nl/publications/2023/02/21/The-Case-of-the-Golden-Background.html), reporting on an earlier stage of the project, where we digitally recreated the golden background with computer graphics.
+
+![](/assets/img/portfolio/lindau.jpg)

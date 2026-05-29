@@ -1,5 +1,5 @@
 ---
-title: "SIGGRAPH 2020 Fast Forward"
+title: "Multi-character Mayhem - SIGGRAPH 2020 Fast Forward"
 layout: post
 categories:
   - Creative Portfolio
