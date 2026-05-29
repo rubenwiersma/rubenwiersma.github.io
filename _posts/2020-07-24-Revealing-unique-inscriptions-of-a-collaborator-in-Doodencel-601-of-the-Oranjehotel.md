@@ -15,7 +15,7 @@ authors: "J. Wembe, R. van den Brink, E. Mooldijk, N. Feirabend, <b>R. Wiersma</
 type: "Article"
 doi: "10.1186/s40494-020-00418-8" 
 coverage:
-  - name: "Volkskrant"
+  - name: "de Volkskrant"
     url: "https://www.volkskrant.nl/nieuws-achtergrond/de-weggestucte-tekst-in-de-dodencel-blijkt-van-een-nsb-er-die-wachtte-op-zijn-vonnis~b7cf0d59/"
   - name: "NOS"
     url: "https://nos.nl/artikel/2342175-delftse-studenten-ontdekken-teksten-nsb-er-in-cel-oranjehotel"
