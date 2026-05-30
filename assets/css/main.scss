@@ -10,12 +10,17 @@ $layout-reverse: false !default;
 $link-color: #268bd2 !default;
 $large-breakpoint: 49rem !default;
 
-body {
+body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
     background-image: url(/assets/img/publications/phd_thesis.png), linear-gradient(175deg, rgba(43, 55, 92, 1) 0%, rgba(43, 92, 90, 1) 100%);
     background-blend-mode: soft-light;
-    background-position: top center, center;
+    background-position: top left, center;
     background-repeat: no-repeat, no-repeat;
     background-size: cover, cover;
+    z-index: -1;
+    pointer-events: none;
 }
 
 
@@ -70,9 +75,6 @@ img.profile_home {
 }
 
 @media (max-width: $large-breakpoint) {
-    body {
-        background-size: contain;
-    }
 
     .home #sidebar .logo {
         display: block;
