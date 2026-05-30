@@ -71,11 +71,7 @@ img.profile_home {
 
 @media (max-width: $large-breakpoint) {
     body {
-        background-size: cover;
-    }
-
-    #sidebar {
-        backdrop-filter: blur(5px);
+        background-size: contain;
     }
 
     .home #sidebar .logo {
