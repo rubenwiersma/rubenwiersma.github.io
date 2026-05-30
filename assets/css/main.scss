@@ -3,7 +3,7 @@
 # only main files contain this front matter, not partials.
 ---
 
-$sidebar-bg-color: #2b375c !default;
+$sidebar-bg-color: default !default;
 $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
@@ -11,10 +11,11 @@ $link-color: #268bd2 !default;
 $large-breakpoint: 49rem !default;
 
 body {
-    background-image: url(/assets/img/flowers.jpg);
+    background-image: url(/assets/img/publications/phd_thesis.png), linear-gradient(175deg, rgba(43, 55, 92, 1) 0%, rgba(43, 92, 90, 1) 100%);
     background-blend-mode: soft-light;
-    background-position: top left;
-    background-repeat: no-repeat;
+    background-position: top center, center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover, cover;
 }
 
 
@@ -71,6 +72,10 @@ img.profile_home {
 @media (max-width: $large-breakpoint) {
     body {
         background-size: cover;
+    }
+
+    #sidebar {
+        backdrop-filter: blur(5px);
     }
 
     .home #sidebar .logo {
