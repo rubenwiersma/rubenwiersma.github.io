@@ -24,7 +24,7 @@ sidebar_link: false
     <i class="fa fa-2x fa-file-pdf-o"></i> Supplement PDF</a>&nbsp;&nbsp;
 <a id="presentation-link"
       class="icon" title="Gravo MG Presentation" aria-label="Presentation"
-      href="https://graphics.tudelft.nl/Publications-new/2023/WNEH23/siggraph2023_gravo_mg.pptx" target="_blank">
+      href="https://publications.graphics.tudelft.nl/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8afd9e2c2500c216e691c44a3719689e8fde957b/siggraph2023_gravo_mg.pptx" target="_blank">
     <i class="fa fa-2x fa-file-powerpoint-o"></i> Presentation</a>&nbsp;&nbsp;
 <a id="cite-link"
       class="icon" title="Cite" aria-label="Cite"
@@ -60,7 +60,7 @@ Find out more about Gravo MG in our paper, or come see our (virtual) presentatio
     <i class="fa fa-2x fa-file-pdf-o"></i> Supplement PDF</a>&nbsp;&nbsp;
 <a id="presentation-link"
       class="icon" title="Gravo MG Presentation" aria-label="Presentation"
-      href="https://graphics.tudelft.nl/Publications-new/2023/WNEH23/siggraph2023_gravo_mg.pptx" target="_blank">
+      href="https://publications.graphics.tudelft.nl/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8afd9e2c2500c216e691c44a3719689e8fde957b/siggraph2023_gravo_mg.pptx" target="_blank">
     <i class="fa fa-2x fa-file-powerpoint-o"></i> Presentation</a>&nbsp;&nbsp;
 <a id="cite-link"
       class="icon" title="Cite" aria-label="Cite"
@@ -68,7 +68,7 @@ Find out more about Gravo MG in our paper, or come see our (virtual) presentatio
     <i class="fa fa-2x fa-quote-right"></i> Cite</a>&nbsp;&nbsp;
 
 ## Contact
-r.t.wiersma [at] tudelft.nl, k.a.hildebrandt [at] tudelft.nl
+rubenwiersma [at] gmail.com, k.a.hildebrandt [at] tudelft.nl
 
 <a href="http://graphics.tudelft.nl" target="_blank">Computer Graphics and Visualization group TU Delft</a>
 
