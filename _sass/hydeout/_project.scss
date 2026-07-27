@@ -1,6 +1,10 @@
 /*
     CSS for dedicated project pages.
 */
+body.project::before {
+    background: none;
+}
+
 .project {
     background-image: none;
     background-color: white;
