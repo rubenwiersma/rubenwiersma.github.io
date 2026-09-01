@@ -16,6 +16,7 @@ type: "Article"
 doi: "10.1145/3721238.3730592"
 pdf: "https://svbrdf-uncertainty.github.io/static/pdf/svbrdf_uncertainty_siggraph_2025.pdf"
 projectpage: "https://svbrdf-uncertainty.github.io"
+presentation: "https://www.youtube.com/watch?v=jv7oq_wYYug"
 code: "https://svbrdf-uncertainty.github.io"
 img: "/assets/img/publications/svbrdf_uncertainty.jpg"
 bib: "@inproceedings{wiersma2025svbrdfuncertainty,<br />

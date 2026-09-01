@@ -19,6 +19,7 @@ type: "Article"
 doi: "10.1145/3528223.3530166"
 pdf: "https://arxiv.org/abs/2111.08799"
 projectpage: "/deltaconv"
+presentation: "https://www.youtube.com/watch?v=pKVtuz4dG0g"
 code: "https://github.com/rubenwiersma/deltaconv"
 img: "/assets/img/publications/deltaconv/deltaconv.png"
 bib: "@Article{Wiersma2022DeltaConv,<br />
